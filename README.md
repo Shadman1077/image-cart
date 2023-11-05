@@ -1,4 +1,4 @@
-# deployment link
+# Deployment link
 https://image-cart.netlify.app/
 
 # Getting Started with Create React App
